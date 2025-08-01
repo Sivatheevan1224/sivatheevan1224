@@ -1,12 +1,12 @@
 ## Hi there 👋 It's Sivatheevan
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<!--<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">-->
+<img alt="Coder GIF" align="right" height=290 width=370 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
 **🌱 I’m currently learning Computer Science and Technology at Uva Wellasa University of Sri Lanka**
 
-## Social Presence
+## Social Presence📲
  <a href="https://www.linkedin.com/in/sivatheevan-arulnathan-b54aa330a/" target="_blank">
   <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
 </a><br/>
@@ -32,12 +32,22 @@
 • Responsive Web Design <br/><br/>
 
 
-[![Sivatheevan1224 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivatheevan1224&bg_color=121112&color=f5f0f4&line=31d834&point=f5f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sivatheevan1224 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivatheevan1224&bg_color=121112&color=f5f0f4&line=31d834&point=f5f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sivatheevan1224&theme=radical&hide_border=false)<br/>
 
 ### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=8&theme=radical)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sivatheevan1224&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sivatheevan1224&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcountpro.netlify.app/api?id=Sivatheevan1224&pretty=true)](https://visitcount.itsvg.in)
