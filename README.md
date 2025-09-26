@@ -1,4 +1,5 @@
 ## Hi there 👋 It's Sivatheevan
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">-->
 <img alt="Coder GIF" align="right" height=290 width=370 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -14,6 +15,8 @@
 <a href="https://www.instagram.com/siva_rock_24?igsh=ajZ6azNwaGlmMTg4&utm_source=qr/" target="_blank">
   <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" />
 </a><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 I Code In
 <p align="left"> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React JS" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /> <img height="50" width="50" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" /> </p><br/>
