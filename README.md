@@ -89,9 +89,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [🌐 Portfolio Website](https://github.com/Sivatheevan1224/Portfolio) | My personal developer portfolio showcasing projects and skills. | Next.js, Tailwind CSS, React |
-| [💻 GearSphere- Custom PC Builder & Parts Marketplace](https://github.com/Sivatheevan1224/Custom-PC-Builder) | A web app to build custom PCs with live component compatibility. | React, PHP (OOP), MySQL |
-| [🏋️ Gym Management System](https://github.com/Sivatheevan1224/Gym-Management-System) | System for gym memberships, trainer management, and payments. | HTML, PHP, Tailwind CSS |
+| [🌐 Portfolio Website](https://github.com/Sivatheevan1224/My_Portfolio) | My personal developer portfolio showcasing projects and skills. | Next.js, Tailwind CSS, React |
+| [💻 GearSphere- Custom PC Builder & Parts Marketplace](https://github.com/Sivatheevan1224/GearSphere-FrontEnd) | A web app to build custom PCs with live component compatibility. | React, PHP (OOP), MySQL |
+| [🏋️ Gym Management System](https://github.com/Sivatheevan1224/Gym_Management_System) | System for gym memberships, trainer management, and payments. | HTML, PHP, Tailwind CSS |
 
 ---
 
