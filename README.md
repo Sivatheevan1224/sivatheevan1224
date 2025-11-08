@@ -7,7 +7,7 @@
 
 ### 💻 About Me  
 🎓 Passionate **Computer Science undergraduate** at *Uva Wellassa University of Sri Lanka*  
-💡 Interested in **Full Stack Development**, **IoT Systems**, and **Software Engineering**  
+💡 Interested in **Full Stack Development** and **Software Engineering**  
 🚀 Always eager to learn new technologies and build impactful projects  
 📫 Reach me at: **sivatheevan1224@gmail.com**
 
