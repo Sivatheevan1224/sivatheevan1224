@@ -7,7 +7,7 @@
 <img alt="Coder GIF" align="right" height=290 width=370 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ---
-### 💻 About Me  
+### 💻 About Me  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sivatheevan1224.github.io/My_Portfolio/)
 🎓 Passionate **Computer Science undergraduate** at *Uva Wellassa University of Sri Lanka*  
 💡 Interested in **Full Stack Development** and **Software Engineering**  
 🚀 Always eager to learn new technologies and build impactful projects  
@@ -164,3 +164,4 @@
   <img src="https://img.shields.io/github/last-commit/Sivatheevan1224/Sivatheevan1224?logo=github&style=for-the-badge"/>
 </p>
 ⭐️ From [Sivatheevan1224](https://github.com/Sivatheevan1224)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&width=100&height=100&section=footer" />
