@@ -37,72 +37,50 @@
 
 ---
 
-## 🚀 I Code In  
-<p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C Programming" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" alt="React JS" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
- <img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" />
- <img height="50" width="50" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
- <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" />
-</p>
-
----
-
 ## 🧠 Tech Stack Overview  
 
 ### 💻 Programming Languages
 <p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
- <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C Programming"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/>
+ <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" title="PHP"/>
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" title="React.js"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
- <img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" />
- <img height="50" width="50" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" />
- <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" />
+ <img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/>
+ <img height="50" width="50" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" title="Express.js"/>
+ <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" title="PHP OOP"/>
 </p>
 
 ### 🗄️ Databases
 <p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
 </p>
 
 ### 🛠️ Tools & Others
 <p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" />
- <img height="50" width="50" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" />
- <img height="50" width="50" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" />
+ <img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" title="Git & GitHub"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/>
+ <img height="50" width="50" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" title="Code::Blocks"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" title="NetBeans"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" title="Android Studio"/>
+ <img height="50" width="50" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" title="Mongoose"/>
 </p>
 
 ---
@@ -141,7 +119,31 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+---
+
+> "Code is like humor. When you have to explain it, it's bad." — Cory House  
+
+---
+
+## 📊 GitHub Analytics
+
+[![Sivatheevan1224 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivatheevan1224&bg_color=121112&color=f5f0f4&line=31d834&point=f5f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sivatheevan1224&theme=radical&hide_border=false" height="165"/>
+</p>
+
+### 📈 GitHub Stats & Languages
+
+<div align="center">
+  <img title="Top languages by repo" alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=blue_green"/>
+  <img title="Top languages by commit" alt="Top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=blue_green"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---  
 
 ---
 
