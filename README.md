@@ -181,22 +181,49 @@
 ---
 
 ## 🌱 Currently Exploring  
-- Advanced React & Next.js 15  
-- RESTful API optimization and security  
-- Internet of Things (IoT) using ESP32  
-- Cloud deployment with Vercel & Firebase  
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=100&section=header&text=GitHub%20Contributions%20Snake&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<div align="center">
-  <img src="https://github.com/Sivatheevan1224/Sivatheevan1224/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<table align="center" width="80%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚛️ Frontend Frameworks</h3>
+      <p>
+        <b>• Advanced React Patterns</b><br/>
+        <b>• Next.js 15 Features</b><br/>
+        <b>• Server Components</b><br/>
+        <b>• State Management</b>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔐 Backend & Security</h3>
+      <p>
+        <b>• RESTful API Optimization</b><br/>
+        <b>• API Security Best Practices</b><br/>
+        <b>• Authentication & Authorization</b><br/>
+        <b>• Performance Tuning</b>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 IoT & Hardware</h3>
+      <p>
+        <b>• ESP32 Microcontroller</b><br/>
+        <b>• Internet of Things (IoT)</b><br/>
+        <b>• Sensor Integration</b><br/>
+        <b>• WiFi & Bluetooth Protocols</b>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>☁️ Cloud & Deployment</h3>
+      <p>
+        <b>• Vercel Deployment</b><br/>
+        <b>• Firebase Integration</b><br/>
+        <b>• CI/CD Pipelines</b><br/>
+        <b>• Cloud Optimization</b>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
