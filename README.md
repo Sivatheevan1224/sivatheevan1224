@@ -343,22 +343,66 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1" width="95%"/>
+</p>
+
 <br/>
 
 ### 🎖️ GitHub Contribution Badges
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/followers/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=Sivatheevan1224&style=for-the-badge&color=00ea64&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-00ea64?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
-  <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-00ea64?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests"/>
-  <img src="https://img.shields.io/badge/Issues%20Solved-30%2B-00ea64?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
-  <img src="https://img.shields.io/badge/Code%20Reviews-20%2B-00ea64?style=for-the-badge&logo=github&logoColor=white" alt="Code Reviews"/>
-</p>
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/github/stars/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64&labelColor=0d1117" alt="GitHub Stars" height="35"/>
+      <p><b>Total Stars</b></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/github/followers/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64&labelColor=0d1117" alt="Followers" height="35"/>
+      <p><b>Followers</b></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://komarev.com/ghpvc/?username=Sivatheevan1224&style=for-the-badge&color=00ea64&label=Profile+Views&labelColor=0d1117" alt="Profile Views" height="35"/>
+      <p><b>Profile Visitors</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-00ea64?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Commits" height="35"/>
+      <p><b>Commits</b></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="PRs" height="35"/>
+      <p><b>Pull Requests</b></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Issues-30%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Issues" height="35"/>
+      <p><b>Issues Resolved</b></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Reviews-20%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Reviews" height="35"/>
+      <p><b>Code Reviews</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Repositories-15%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos" height="35"/>
+      <p><b>Public Repos</b></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Contributors-10%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributors" height="35"/>
+      <p><b>Collaborations</b></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ea64?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Experience" height="35"/>
+      <p><b>Coding Journey</b></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Projects-10%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Projects" height="35"/>
+      <p><b>Completed</b></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -385,7 +429,7 @@
       <p>Problem Solving<br/>Data Structures</p>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" colspan="3">
       <h4>🏅 Add Your Certifications Here:</h4>
       <p>
@@ -393,25 +437,8 @@
         <i>Update this section as you complete new courses and certifications!</i>
       </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
-
-<br/>
-
-## 🎨 Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.io/@sivatheevan1224">
-    <img src="https://holopin.me/sivatheevan1224" alt="Holopin Badges" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Collect digital badges from hackathons, events, and open-source contributions!</i><br/>
-  <a href="https://holopin.io/@sivatheevan1224" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Holopin-00ea64?style=for-the-badge&logo=holopin&logoColor=white" alt="View Holopin"/>
-  </a>
-</p>
 
 <br/>
 
