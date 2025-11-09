@@ -340,59 +340,73 @@
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C" width="95%"/>
 </p>
 
 <br/>
 
 ### 🎖️ GitHub Contribution Badges
 
-<table align="center" width="90%">
+<table align="center" width="85%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/github/stars/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64&labelColor=0d1117" alt="GitHub Stars" height="35"/>
-      <p><b>Total Stars</b></p>
+      <img src="https://img.shields.io/github/stars/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64&labelColor=0d1117" alt="GitHub Stars" height="32"/>
+      <h4>⭐ Total Stars</h4>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/github/followers/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64&labelColor=0d1117" alt="Followers" height="35"/>
-      <p><b>Followers</b></p>
+      <img src="https://img.shields.io/github/followers/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64&labelColor=0d1117" alt="Followers" height="32"/>
+      <h4>👥 Followers</h4>
     </td>
     <td align="center" width="33%">
-      <img src="https://komarev.com/ghpvc/?username=Sivatheevan1224&style=for-the-badge&color=00ea64&label=Profile+Views&labelColor=0d1117" alt="Profile Views" height="35"/>
-      <p><b>Profile Visitors</b></p>
+      <img src="https://komarev.com/ghpvc/?username=Sivatheevan1224&style=for-the-badge&color=00ea64&label=VISITORS&labelColor=0d1117" alt="Profile Views" height="32"/>
+      <h4>👁️ Profile Views</h4>
     </td>
   </tr>
+</table>
+
+<table align="center" width="85%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-00ea64?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Commits" height="35"/>
-      <p><b>Commits</b></p>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=COMMITS&query=$.totalCommits&url=https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&count_private=true&color=00ea64&labelColor=0d1117&logo=git&logoColor=white" alt="Total Commits" height="32"/>
+      <h4>📝 Contributions</h4>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="PRs" height="35"/>
-      <p><b>Pull Requests</b></p>
+      <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="PRs" height="32"/>
+      <h4>🔀 Pull Requests</h4>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Issues-30%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Issues" height="35"/>
-      <p><b>Issues Resolved</b></p>
+      <img src="https://img.shields.io/badge/Issues-30%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Issues" height="32"/>
+      <h4>🐛 Issues Fixed</h4>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Reviews-20%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Reviews" height="35"/>
-      <p><b>Code Reviews</b></p>
+      <img src="https://img.shields.io/badge/Reviews-20%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Reviews" height="32"/>
+      <h4>👀 Code Reviews</h4>
     </td>
   </tr>
+</table>
+
+<table align="center" width="85%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Repositories-15%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos" height="35"/>
-      <p><b>Public Repos</b></p>
+      <img src="https://img.shields.io/badge/Repositories-15%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos" height="32"/>
+      <h4>📦 Public Repos</h4>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Contributors-10%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributors" height="35"/>
-      <p><b>Collaborations</b></p>
+      <img src="https://img.shields.io/badge/Collaborators-10%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Collaborators" height="32"/>
+      <h4>🤝 Teamwork</h4>
     </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ea64?style=for-the-badge&logo=clock&logoColor=white&labelColor=0d1117" alt="Experience" height="32"/>
+      <h4>⏰ Journey</h4>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Projects-10%2B-00ea64?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" alt="Projects" height="32"/>
+      <h4>✅ Completed</h4>
+    </td>
+  </tr>
+</table>
+
+<br/>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ea64?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Experience" height="35"/>
       <p><b>Coding Journey</b></p>
