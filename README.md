@@ -61,26 +61,44 @@
 
 ## 🧠 Tech Stack Overview  
 
-<div align="center">
- 
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap |
-| **Backend** | PHP (OOP), Node.js, Express.js |
-| **Database** | MySQL, MongoDB |
-| **Programming** | Java, Python, C |
-| **Other** | REST APIs, Maven, Git & GitHub |
-
-</div>
-
-
----
-
-## 🧰 IDEs & Tools I Use  
+### 💻 Programming Languages
 <p align="center">
+ <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
+ <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" />
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+ <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+ <img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" />
+ <img height="50" width="50" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" />
+ <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+ <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
+</p>
+
+### 🛠️ Tools & Others
+<p align="center">
+ <img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" />
- <img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git" />
  <img height="50" width="50" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" />
@@ -160,13 +178,15 @@
 [![](https://visitcount.itsvg.in/api?id=Sivatheevan1224&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h4 align="center">
-𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 🤝
-  </br>
-𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚍𝚊𝚢 ! 
+  𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 🤝
+  <br/>
+  𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚍𝚊𝚢 ! 
 </h4>
-</br>
+
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Sivatheevan1224/Sivatheevan1224?logo=github&style=for-the-badge"/>
 </p>
+
 ⭐️ From [Sivatheevan1224](https://github.com/Sivatheevan1224)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&width=100&height=100&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
