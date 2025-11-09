@@ -405,16 +405,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ea64?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Experience" height="35"/>
-      <p><b>Coding Journey</b></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Projects-10%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Projects" height="35"/>
-      <p><b>Completed</b></p>
-    </td>
   </tr>
 </table>
 
