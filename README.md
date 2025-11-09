@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=5555&pause=1000&color=000000&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++I'm+Arulnathan+Sivatheevan" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -85,15 +89,80 @@
 
 ---
 
-## 💡 Other Skills  
-• Java Swing GUI Development  
-• Java Web Applications (Servlets, JSP)  
-• Maven Project Management  
-• SQL & NoSQL Database Design  
-• REST API Integration  
-• Responsive Web Design  
-• MERN Stack Development (MongoDB, Express.js, React.js, Node.js)  
-• Next.js & TypeScript Projects  
+## 💡 Core Skills & Expertise  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Development+%7C+MERN+Stack+%7C+Next.js;REST+API+Integration+%7C+Database+Design;Java+Swing+GUI+%7C+Web+Applications+%7C+Maven" alt="Skills Animation" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend Development</h3>
+      <p>
+        • HTML5, CSS3, JavaScript<br/>
+        • React.js & Next.js<br/>
+        • TypeScript<br/>
+        • Tailwind CSS & Bootstrap<br/>
+        • Responsive Web Design
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Development</h3>
+      <p>
+        • Node.js & Express.js<br/>
+        • PHP (OOP)<br/>
+        • REST API Development<br/>
+        • API Integration<br/>
+        • Mongoose ODM
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Database Management</h3>
+      <p>
+        • MySQL<br/>
+        • MongoDB<br/>
+        • SQL & NoSQL Design<br/>
+        • Database Optimization<br/>
+        • Data Modeling
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>☕ Java Development</h3>
+      <p>
+        • Java Swing GUI<br/>
+        • Servlets & JSP<br/>
+        • Maven Project Management<br/>
+        • Java Web Applications<br/>
+        • Object-Oriented Programming
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛠️ Development Tools</h3>
+      <p>
+        • Git & GitHub<br/>
+        • VS Code, PyCharm<br/>
+        • NetBeans, Android Studio<br/>
+        • Code::Blocks<br/>
+        • Version Control Systems
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 Other Technologies</h3>
+      <p>
+        • MERN Stack Development<br/>
+        • Internet of Things (ESP32)<br/>
+        • Cloud Deployment (Vercel)<br/>
+        • Responsive Design Principles<br/>
+        • Agile Development
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -118,6 +187,16 @@
 - Cloud deployment with Vercel & Firebase  
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub%20Contributions&fontSize=30&fontColor=fff&animation=twinkling" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sivatheevan1224/Sivatheevan1224/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sivatheevan1224/Sivatheevan1224/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sivatheevan1224/Sivatheevan1224/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -159,11 +238,6 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=8&theme=radical"/>
 </p>
-
-<div align="center">
-        <img title="Top languages by repo" alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=blue_green"/>
-        <img title="Top languages by commit" alt="Top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=blue_green"/>
-</div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
