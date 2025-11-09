@@ -168,15 +168,68 @@
 
 ## 📂 Featured Projects  
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BC+My+Best+Work+Showcase;%F0%9F%9A%80+Building+Innovative+Solutions" alt="Projects Animation" />
+</p>
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [🌐 Portfolio Website](https://github.com/Sivatheevan1224/My_Portfolio) | My personal developer portfolio showcasing projects and skills. | Next.js, Tailwind CSS, React |
-| [💻 GearSphere - Custom PC Builder & Parts Marketplace](https://github.com/Sivatheevan1224/GearSphere-FrontEnd) | A web app to build custom PCs with live component compatibility. | React, PHP (OOP), MySQL |
-| [🏋️ Gym Management System](https://github.com/Sivatheevan1224/Gym_Management_System) | System for gym memberships, trainer management, and payments. | HTML, PHP, Tailwind CSS |
+<table align="center" width="95%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sivatheevan1224/My_Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivatheevan1224&repo=My_Portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
+      </a>
+      <h3>🌐 Portfolio Website</h3>
+      <p><b>Personal Developer Portfolio</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      </p>
+      <p><i>Showcasing projects, skills, and professional experience with modern UI/UX</i></p>
+      <a href="https://sivatheevan1224.github.io/My_Portfolio/">
+        <img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sivatheevan1224/GearSphere-FrontEnd">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivatheevan1224&repo=GearSphere-FrontEnd&theme=tokyonight&hide_border=true" alt="GearSphere" />
+      </a>
+      <h3>💻 GearSphere</h3>
+      <p><b>Custom PC Builder & Marketplace</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <p><i>Build custom PCs with real-time component compatibility checking and pricing</i></p>
+      <a href="https://github.com/Sivatheevan1224/GearSphere-FrontEnd">
+        <img src="https://img.shields.io/badge/View%20Project-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sivatheevan1224/Gym_Management_System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivatheevan1224&repo=Gym_Management_System&theme=tokyonight&hide_border=true" alt="Gym System" />
+      </a>
+      <h3>🏋️ Gym Management System</h3>
+      <p><b>Complete Gym Operations Platform</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      </p>
+      <p><i>Manage memberships, trainers, schedules, and payment processing efficiently</i></p>
+      <a href="https://github.com/Sivatheevan1224/Gym_Management_System">
+        <img src="https://img.shields.io/badge/View%20Project-00C853?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Sivatheevan1224?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
+  </a>
+</p>
 
 ---
 
@@ -227,54 +280,62 @@
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." — Cory House  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=2" width="100%"/>
+</p>
+
+<h2 align="center">💭 Developer Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=2" width="100%"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-
-[![Sivatheevan1224 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivatheevan1224&bg_color=121112&color=f5f0f4&line=31d834&point=f5f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Analytics & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sivatheevan1224&theme=radical&hide_border=false" height="165"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=%F0%9F%93%88+Track+My+Coding+Journey" alt="Analytics Animation" />
 </p>
-
-### 📈 GitHub Stats & Languages
 
 <div align="center">
-  <img title="Top languages by repo" alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=blue_green"/>
-  <img title="Top languages by commit" alt="Top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=blue_green"/>
+  
+[![Sivatheevan1224 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivatheevan1224&bg_color=0d1117&color=00d4ff&line=7f00ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7f00ff&text_color=ffffff" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sivatheevan1224&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7f00ff&currStreakLabel=00d4ff" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="180"/>
+</p>
+
+<br/>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%"/>
+</p>
+
+<br/>
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sivatheevan1224&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%"/>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----  
-
----
-
-[![Sivatheevan1224 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivatheevan1224&bg_color=121112&color=f5f0f4&line=31d834&point=f5f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 GitHub Stats
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical" height="165"/>
- <img src="https://nirzak-streak-stats.vercel.app/?user=Sivatheevan1224&theme=radical&hide_border=false" height="165"/>
-</p>
-
-### 📊 Top Languages
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
- <img src="https://github-contributor-stats.vercel.app/api?username=Sivatheevan1224&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
 
 ---
 
