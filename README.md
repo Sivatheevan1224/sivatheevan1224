@@ -92,73 +92,73 @@
 ## 💡 Core Skills & Expertise  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Development+%7C+MERN+Stack+%7C+Next.js;REST+API+Integration+%7C+Database+Design;Java+Swing+GUI+%7C+Web+Applications+%7C+Maven" alt="Skills Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Full+Stack+Developer+%7C+MERN+Stack+%7C+Next.js+%F0%9F%9A%80;REST+API+Integration+%7C+Database+Design+%F0%9F%92%BE;Java+Development+%7C+Web+Applications+%7C+Maven+%E2%98%95" alt="Skills Animation" />
 </p>
 
-<table align="center">
+<table align="center" width="90%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
       <h3>🎨 Frontend Development</h3>
       <p>
-        • HTML5, CSS3, JavaScript<br/>
-        • React.js & Next.js<br/>
-        • TypeScript<br/>
-        • Tailwind CSS & Bootstrap<br/>
-        • Responsive Web Design
+        <b>• HTML5, CSS3, JavaScript</b><br/>
+        <b>• React.js & Next.js</b><br/>
+        <b>• TypeScript</b><br/>
+        <b>• Tailwind CSS & Bootstrap</b><br/>
+        <b>• Responsive Web Design</b>
       </p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
       <h3>⚙️ Backend Development</h3>
       <p>
-        • Node.js & Express.js<br/>
-        • PHP (OOP)<br/>
-        • REST API Development<br/>
-        • API Integration<br/>
-        • Mongoose ODM
+        <b>• Node.js & Express.js</b><br/>
+        <b>• PHP (OOP)</b><br/>
+        <b>• REST API Development</b><br/>
+        <b>• API Integration</b><br/>
+        <b>• Mongoose ODM</b>
       </p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
       <h3>🗄️ Database Management</h3>
       <p>
-        • MySQL<br/>
-        • MongoDB<br/>
-        • SQL & NoSQL Design<br/>
-        • Database Optimization<br/>
-        • Data Modeling
+        <b>• MySQL</b><br/>
+        <b>• MongoDB</b><br/>
+        <b>• SQL & NoSQL Design</b><br/>
+        <b>• Database Optimization</b><br/>
+        <b>• Data Modeling</b>
       </p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
       <h3>☕ Java Development</h3>
       <p>
-        • Java Swing GUI<br/>
-        • Servlets & JSP<br/>
-        • Maven Project Management<br/>
-        • Java Web Applications<br/>
-        • Object-Oriented Programming
+        <b>• Java Swing GUI</b><br/>
+        <b>• Servlets & JSP</b><br/>
+        <b>• Maven Project Management</b><br/>
+        <b>• Java Web Applications</b><br/>
+        <b>• Object-Oriented Programming</b>
       </p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
       <h3>🛠️ Development Tools</h3>
       <p>
-        • Git & GitHub<br/>
-        • VS Code, PyCharm<br/>
-        • NetBeans, Android Studio<br/>
-        • Code::Blocks<br/>
-        • Version Control Systems
+        <b>• Git & GitHub</b><br/>
+        <b>• VS Code, PyCharm</b><br/>
+        <b>• NetBeans, Android Studio</b><br/>
+        <b>• Code::Blocks</b><br/>
+        <b>• Version Control Systems</b>
       </p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
       <h3>🚀 Other Technologies</h3>
       <p>
-        • MERN Stack Development<br/>
-        • Internet of Things (ESP32)<br/>
-        • Cloud Deployment (Vercel)<br/>
-        • Responsive Design Principles<br/>
-        • Agile Development
+        <b>• MERN Stack Development</b><br/>
+        <b>• Internet of Things (ESP32)</b><br/>
+        <b>• Cloud Deployment (Vercel)</b><br/>
+        <b>• Responsive Design Principles</b><br/>
+        <b>• Agile Development</b>
       </p>
     </td>
   </tr>
@@ -189,14 +189,14 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub%20Contributions&fontSize=30&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=100&section=header&text=GitHub%20Contributions%20Snake&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sivatheevan1224/Sivatheevan1224/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sivatheevan1224/Sivatheevan1224/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sivatheevan1224/Sivatheevan1224/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github.com/Sivatheevan1224/Sivatheevan1224/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
