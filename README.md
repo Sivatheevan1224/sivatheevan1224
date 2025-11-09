@@ -337,10 +337,80 @@
 
 <br/>
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%"/>
+</p>
+
+<br/>
+
+### 🎖️ GitHub Contribution Badges
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/Sivatheevan1224?style=for-the-badge&logo=github&logoColor=white&color=00ea64" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Sivatheevan1224&style=for-the-badge&color=00ea64&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-00ea64?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-00ea64?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests"/>
+  <img src="https://img.shields.io/badge/Issues%20Solved-30%2B-00ea64?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+  <img src="https://img.shields.io/badge/Code%20Reviews-20%2B-00ea64?style=for-the-badge&logo=github&logoColor=white" alt="Code Reviews"/>
+</p>
+
+<br/>
+
+## 🎓 Certifications & Achievements
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certification" width="60"/>
+      <h4>📜 Academic Excellence</h4>
+      <p><b>Computer Science</b></p>
+      <p>Uva Wellassa University<br/>Sri Lanka</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/graduation-cap.png" alt="Education" width="60"/>
+      <h4>🎯 Technical Skills</h4>
+      <p><b>Full Stack Development</b></p>
+      <p>MERN Stack & Next.js<br/>Certified Developer</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/code.png" alt="Coding" width="60"/>
+      <h4>💻 Coding Platforms</h4>
+      <p><b>HackerRank Certified</b></p>
+      <p>Problem Solving<br/>Data Structures</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h4>🏅 Add Your Certifications Here:</h4>
+      <p>
+        <i>LinkedIn Learning • Coursera • Udemy • freeCodeCamp • Microsoft Learn</i><br/>
+        <i>Update this section as you complete new courses and certifications!</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🎨 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@sivatheevan1224">
+    <img src="https://holopin.me/sivatheevan1224" alt="Holopin Badges" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Collect digital badges from hackathons, events, and open-source contributions!</i><br/>
+  <a href="https://holopin.io/@sivatheevan1224" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Holopin-00ea64?style=for-the-badge&logo=holopin&logoColor=white" alt="View Holopin"/>
+  </a>
 </p>
 
 <br/>
