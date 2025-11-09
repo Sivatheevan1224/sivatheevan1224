@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=5555&pause=1000&color=000000&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++👋I'm+Arulnathan+Sivatheevan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=5555&pause=1000&color=000000&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++I'm+Arulnathan+Sivatheevan" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -7,7 +7,6 @@
 <img alt="Coder GIF" align="right" height=290 width=370 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ---
-
 ### 💻 About Me  
 🎓 Passionate **Computer Science undergraduate** at *Uva Wellassa University of Sri Lanka*  
 💡 Interested in **Full Stack Development** and **Software Engineering**  
@@ -28,9 +27,7 @@
  <a href = "https://www.hackerrank.com/profile/cst22083" target="blank">
   <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
  </a>
-
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
