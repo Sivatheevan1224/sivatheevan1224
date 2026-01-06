@@ -94,7 +94,16 @@
  <img height="50" width="50" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" title="Code::Blocks"/>
  <img height="50" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" title="NetBeans"/>
  <img height="50" width="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" title="Android Studio"/>
- <img height="50" width="50" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" title="Mongoose"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring Framework"/>
+</p>
+
+### 🗃️ Frameworks & ORMs
+<p align="center">
+ <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" title="Mongoose ODM"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate" title="Hibernate ORM"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring Framework"/>
 </p>
 
 ---
@@ -186,7 +195,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Sivatheevan1224/My_Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivatheevan1224&repo=My_Portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
+        <img src="https://opengraph.githubassets.com/1/Sivatheevan1224/My_Portfolio" alt="Portfolio" width="100%" style="border-radius: 10px;"/>
       </a>
       <h3>🌐 Portfolio Website</h3>
       <p><b>Personal Developer Portfolio</b></p>
@@ -202,7 +211,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Sivatheevan1224/GearSphere-FrontEnd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivatheevan1224&repo=GearSphere-FrontEnd&theme=tokyonight&hide_border=true" alt="GearSphere" />
+        <img src="https://opengraph.githubassets.com/1/Sivatheevan1224/GearSphere-FrontEnd" alt="GearSphere" width="100%" style="border-radius: 10px;"/>
       </a>
       <h3>💻 GearSphere</h3>
       <p><b>Custom PC Builder & Marketplace</b></p>
@@ -218,7 +227,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Sivatheevan1224/Gym_Management_System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivatheevan1224&repo=Gym_Management_System&theme=tokyonight&hide_border=true" alt="Gym System" />
+        <img src="https://opengraph.githubassets.com/1/Sivatheevan1224/Gym_Management_System" alt="Gym System" width="100%" style="border-radius: 10px;"/>
       </a>
       <h3>🏋️ Gym Management System</h3>
       <p><b>Complete Gym Operations Platform</b></p>
@@ -305,12 +314,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ea64&icon_color=39ff14&text_color=ffffff&ring_color=00ea64" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sivatheevan1224&theme=dark&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ea64&icon_color=39ff14&text_color=ffffff&ring_color=00ea64&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivatheevan1224&theme=dark&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff&exclude_repo=repo1,repo2" height="180"/>
 </p>
 
 <br/>
@@ -340,7 +349,7 @@
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7" width="95%"/>
 </p>
 
 <br/>
@@ -367,19 +376,19 @@
 <table align="center" width="85%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=COMMITS&query=$.totalCommits&url=https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&count_private=true&color=00ea64&labelColor=0d1117&logo=git&logoColor=white" alt="Total Commits" height="32"/>
+      <img src="https://img.shields.io/badge/Total_Commits-1000%2B-00ea64?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Total Commits" height="32"/>
       <h4>📝 Contributions</h4>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="PRs" height="32"/>
+      <img src="https://img.shields.io/badge/Pull_Requests-50%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="PRs" height="32"/>
       <h4>🔀 Pull Requests</h4>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Issues-30%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Issues" height="32"/>
+      <img src="https://img.shields.io/badge/Issues_Fixed-30%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Issues" height="32"/>
       <h4>🐛 Issues Fixed</h4>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Reviews-20%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Reviews" height="32"/>
+      <img src="https://img.shields.io/badge/Code_Reviews-20%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Reviews" height="32"/>
       <h4>👀 Code Reviews</h4>
     </td>
   </tr>
