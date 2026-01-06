@@ -327,21 +327,21 @@
 ### 📈 Detailed GitHub Statistics
 
 <div align="center">
-  <img title="Stats Summary" alt="Stats Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sivatheevan1224&theme=github_dark" width="80%"/>
+  <img title="Stats Summary" alt="Stats Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sivatheevan1224&theme=github_dark" width="80%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img title="Top languages by repo" alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=github_dark" width="40%"/>
-  <img title="Top languages by commit" alt="Top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=github_dark" width="40%"/>
+  <img title="Top languages by repo" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=github_dark" width="40%"/>
+  <img title="Top languages by commit" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=github_dark" width="40%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img title="Stats" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sivatheevan1224&theme=github_dark" width="40%"/>
-  <img title="Productive Time" alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sivatheevan1224&theme=github_dark&utcOffset=5.5" width="40%"/>
+  <img title="Stats" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sivatheevan1224&theme=github_dark" width="40%"/>
+  <img title="Productive Time" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sivatheevan1224&theme=github_dark&utcOffset=5.5" width="40%"/>
 </div>
 
 <br/>
@@ -349,7 +349,7 @@
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=false&no-bg=false&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%"/>
 </p>
 
 <br/>
