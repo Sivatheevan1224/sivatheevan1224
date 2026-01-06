@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=5555&pause=1000&color=000000&center=true&width=770&height=60&lines=Hi++there%F0%9F%91%8B%2C++I'm+Arulnathan+Sivatheevan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=5555&pause=1000&color=000000&center=true&width=800&height=70&lines=Hi++there%F0%9F%91%8B%2C++I'm+Arulnathan+Sivatheevan" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00EA64&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -315,7 +315,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&icon_color=39ff14&text_color=ffffff&ring_color=00ea64&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Sivatheevan1224&theme=radical&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivatheevan1224&theme=highcontrast&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&stroke=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
 </p>
 
 <p align="center">
@@ -355,7 +355,7 @@
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2" width="95%"/>
 </p>
 
 <br/>
