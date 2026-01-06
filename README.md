@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -414,16 +414,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00ea64?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Experience" height="35"/>
-      <p><b>Coding Journey</b></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Projects-10%2B-00ea64?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Projects" height="35"/>
-      <p><b>Completed</b></p>
-    </td>
   </tr>
 </table>
 
