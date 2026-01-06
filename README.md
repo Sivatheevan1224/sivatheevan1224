@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=5555&pause=1000&color=000000&center=true&width=770&height=50&lines=Hi++there%F0%9F%91%8B%2C++I'm+Arulnathan+Sivatheevan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=5555&pause=1000&color=000000&center=true&width=770&height=60&lines=Hi++there%F0%9F%91%8B%2C++I'm+Arulnathan+Sivatheevan" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -314,34 +314,40 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ea64&icon_color=39ff14&text_color=ffffff&ring_color=00ea64&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivatheevan1224&theme=dark&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&icon_color=39ff14&text_color=ffffff&ring_color=00ea64&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Sivatheevan1224&theme=radical&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff&exclude_repo=repo1,repo2" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff" height="180"/>
 </p>
 
 <br/>
 
-### 📈 Detailed GitHub Statistics
+### 📈 Additional GitHub Insights
 
 <div align="center">
-  <img title="Stats Summary" alt="Stats Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sivatheevan1224&theme=github_dark" width="80%"/>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sivatheevan1224&theme=radical)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img title="Top languages by repo" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=github_dark" width="40%"/>
-  <img title="Top languages by commit" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=github_dark" width="40%"/>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=radical)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img title="Stats" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sivatheevan1224&theme=github_dark" width="40%"/>
-  <img title="Productive Time" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sivatheevan1224&theme=github_dark&utcOffset=5.5" width="40%"/>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sivatheevan1224&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sivatheevan1224&theme=radical&utcOffset=5.5)
+
 </div>
 
 <br/>
@@ -349,7 +355,7 @@
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=algolia&no-frame=false&no-bg=false&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sivatheevan1224&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
 </p>
 
 <br/>
