@@ -54,57 +54,55 @@
 ## 🧠 Tech Stack Overview  
 
 ### 💻 Programming Languages
-<p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C Programming"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/>
- <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" title="PHP"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img height="60" width="60" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C Programming"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/>
+  <img height="60" width="60" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" title="PHP"/>
+</div>
 
 ### 🎨 Frontend Development
-<p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" title="React.js"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img height="60" width="60" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" title="React.js"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+</div>
 
 ### ⚙️ Backend Development
-<p align="center">
- <img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/>
- <img height="50" width="50" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" title="Express.js"/>
- <img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" title="PHP OOP"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img height="60" width="60" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/>
+  <img height="60" width="60" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" title="Express.js"/>
+  <img height="60" width="60" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" title="PHP OOP"/>
+</div>
 
 ### 🗄️ Databases
-<p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img height="60" width="60" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
+</div>
 
-### 🛠️ Tools & Others
-<p align="center">
- <img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" title="Git & GitHub"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/>
- <img height="50" width="50" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" title="Code::Blocks"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" title="NetBeans"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" title="Android Studio"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring Framework"/>
-</p>
+### 🛠️ Tools & Development Environment
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img height="60" width="60" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" title="Git & GitHub"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/>
+  <img height="60" width="60" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" title="Code::Blocks"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" title="NetBeans"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" title="Android Studio"/>
+</div>
 
-### 🗃️ Frameworks & ORMs
-<p align="center">
- <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" title="Mongoose ODM"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate" title="Hibernate ORM"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring Framework"/>
-</p>
+### 📚 Frameworks, Libraries & Cloud Services
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" title="Mongoose ODM"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate" title="Hibernate ORM"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
+  <img height="60" width="60" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring Framework"/>
+</div>
 
 ---
 
@@ -254,9 +252,9 @@
 
 ## 🌱 Currently Exploring  
 
-<table align="center" width="80%">
+<table align="center" width="90%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #39FF14; padding: 20px; border-radius: 8px;">
       <h3>⚛️ Frontend Frameworks</h3>
       <p>
         <b>• Advanced React Patterns</b><br/>
@@ -265,7 +263,7 @@
         <b>• State Management</b>
       </p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #39FF14; padding: 20px; border-radius: 8px;">
       <h3>🔐 Backend & Security</h3>
       <p>
         <b>• RESTful API Optimization</b><br/>
@@ -276,7 +274,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #39FF14; padding: 20px; border-radius: 8px;">
       <h3>🌐 IoT & Hardware</h3>
       <p>
         <b>• ESP32 Microcontroller</b><br/>
@@ -285,7 +283,7 @@
         <b>• WiFi & Bluetooth Protocols</b>
       </p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 2px solid #39FF14; padding: 20px; border-radius: 8px;">
       <h3>☁️ Cloud & Deployment</h3>
       <p>
         <b>• Vercel Deployment</b><br/>
@@ -313,14 +311,14 @@
 
 <br/>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&icon_color=39ff14&text_color=ffffff&ring_color=00ea64&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivatheevan1224&theme=highcontrast&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&stroke=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff" height="180"/>
-</p>
+</div>
 
 <br/>
 
@@ -351,6 +349,8 @@
 </div>
 
 <br/>
+
+---
 
 ## 🏆 GitHub Achievements & Trophies
 
@@ -418,8 +418,6 @@
       <img src="https://img.shields.io/badge/Projects-10%2B-00ea64?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" alt="Projects" height="32"/>
       <h4>✅ Completed</h4>
     </td>
-  </tr>
-</table>
   </tr>
 </table>
 
