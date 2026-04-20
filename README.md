@@ -54,7 +54,7 @@
 ## 🧠 Tech Stack Overview  
 
 ### 💻 Programming Languages
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img height="60" width="60" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C Programming"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
@@ -64,7 +64,7 @@
 </div>
 
 ### 🎨 Frontend Development
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img height="60" width="60" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" title="React.js"/>
@@ -74,20 +74,20 @@
 </div>
 
 ### ⚙️ Backend Development
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img height="60" width="60" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/>
   <img height="60" width="60" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" title="Express.js"/>
   <img height="60" width="60" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" title="PHP OOP"/>
 </div>
 
 ### 🗄️ Databases
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img height="60" width="60" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
 </div>
 
 ### 🛠️ Tools & Development Environment
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img height="60" width="60" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" title="Git & GitHub"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/>
@@ -97,7 +97,7 @@
 </div>
 
 ### 📚 Frameworks, Libraries & Cloud Services
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" title="Mongoose ODM"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate" title="Hibernate ORM"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
