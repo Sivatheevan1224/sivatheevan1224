@@ -54,7 +54,6 @@
 ## 🧠 Tech Stack Overview  
 
 <div align="center">
-<h2 align="center">🧠 Tech Stack Overview</h2>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
@@ -159,11 +158,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Full+Stack+Developer+%7C+MERN+Stack+%7C+Next.js+%F0%9F%9A%80;REST+API+Integration+%7C+Database+Design+%F0%9F%92%BE;Java+Development+%7C+Web+Applications+%7C+Maven+%E2%98%95" alt="Skills Animation" />
 </p>
 
-<table align="center" width="90%">
+<table align="center" width="90%" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
+    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>🎨 Frontend Development</h3>
-      <p>
+      <p align="left">
         <b>• HTML5, CSS3, JavaScript</b><br/>
         <b>• React.js & Next.js</b><br/>
         <b>• TypeScript</b><br/>
@@ -171,9 +170,9 @@
         <b>• Responsive Web Design</b>
       </p>
     </td>
-    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
+    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>⚙️ Backend Development</h3>
-      <p>
+      <p align="left">
         <b>• Node.js & Express.js</b><br/>
         <b>• PHP (OOP)</b><br/>
         <b>• REST API Development</b><br/>
@@ -183,9 +182,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
+    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>🗄️ Database Management</h3>
-      <p>
+      <p align="left">
         <b>• MySQL</b><br/>
         <b>• MongoDB</b><br/>
         <b>• SQL & NoSQL Design</b><br/>
@@ -193,9 +192,9 @@
         <b>• Data Modeling</b>
       </p>
     </td>
-    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
+    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>☕ Java Development</h3>
-      <p>
+      <p align="left">
         <b>• Java Swing GUI</b><br/>
         <b>• Servlets & JSP</b><br/>
         <b>• Maven Project Management</b><br/>
@@ -205,9 +204,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
+    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>🛠️ Development Tools</h3>
-      <p>
+      <p align="left">
         <b>• Git & GitHub</b><br/>
         <b>• VS Code, PyCharm</b><br/>
         <b>• NetBeans, Android Studio</b><br/>
@@ -215,9 +214,9 @@
         <b>• Version Control Systems</b>
       </p>
     </td>
-    <td align="center" width="50%" style="border: 2px solid #00D4FF; padding: 20px;">
+    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>🚀 Other Technologies</h3>
-      <p>
+      <p align="left">
         <b>• MERN Stack Development</b><br/>
         <b>• Internet of Things (ESP32)</b><br/>
         <b>• Cloud Deployment (Vercel)</b><br/>
@@ -299,20 +298,20 @@
 
 ## 🌱 Currently Exploring  
 
-<table align="center" width="90%">
+<table align="center" width="90%" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td align="center" width="50%" style="border: 2px solid #39FF14; padding: 20px; border-radius: 8px;">
+    <td align="center" width="50%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 25px; background-color: rgba(57, 255, 20, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>⚛️ Frontend Frameworks</h3>
-      <p>
+      <p align="left">
         <b>• Advanced React Patterns</b><br/>
         <b>• Next.js 15 Features</b><br/>
         <b>• Server Components</b><br/>
         <b>• State Management</b>
       </p>
     </td>
-    <td align="center" width="50%" style="border: 2px solid #39FF14; padding: 20px; border-radius: 8px;">
+    <td align="center" width="50%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 25px; background-color: rgba(57, 255, 20, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>🔐 Backend & Security</h3>
-      <p>
+      <p align="left">
         <b>• RESTful API Optimization</b><br/>
         <b>• API Security Best Practices</b><br/>
         <b>• Authentication & Authorization</b><br/>
@@ -321,18 +320,18 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border: 2px solid #39FF14; padding: 20px; border-radius: 8px;">
+    <td align="center" width="50%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 25px; background-color: rgba(57, 255, 20, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>🌐 IoT & Hardware</h3>
-      <p>
+      <p align="left">
         <b>• ESP32 Microcontroller</b><br/>
         <b>• Internet of Things (IoT)</b><br/>
         <b>• Sensor Integration</b><br/>
         <b>• WiFi & Bluetooth Protocols</b>
       </p>
     </td>
-    <td align="center" width="50%" style="border: 2px solid #39FF14; padding: 20px; border-radius: 8px;">
+    <td align="center" width="50%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 25px; background-color: rgba(57, 255, 20, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <h3>☁️ Cloud & Deployment</h3>
-      <p>
+      <p align="left">
         <b>• Vercel Deployment</b><br/>
         <b>• Firebase Integration</b><br/>
         <b>• CI/CD Pipelines</b><br/>
