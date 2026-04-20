@@ -54,7 +54,7 @@
 ## 🧠 Tech Stack Overview  
 
 ### 💻 Programming Languages
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+<div align="" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img height="60" width="60" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C Programming"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <img height="60" width="60" src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
