@@ -54,106 +54,72 @@
 ## 🧠 Tech Stack Overview  
 
 ### 💻 Programming Languages
-<table align="center" width="50%">
+<table align="center" width="60%">
   <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C Programming"/><br/>C</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/><br/>Java</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/><br/>Python</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C Programming"/><br/>C</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/><br/>Java</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/><br/>Python</td>
   </tr>
   <tr>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/><br/>JavaScript</td>
-  </tr>
-  <tr>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/><br/>TypeScript</td>
-  </tr>
-  <tr>
     <td align="center"><img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" title="PHP"/><br/>PHP</td>
   </tr>
 </table>
 
 ### 🎨 Frontend Development
-<table align="center" width="50%">
+<table align="center" width="60%">
   <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/><br/>HTML5</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/><br/>CSS3</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" title="React.js"/><br/>React.js</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/><br/>HTML5</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/><br/>CSS3</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" title="React.js"/><br/>React.js</td>
   </tr>
   <tr>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/><br/>Next.js</td>
-  </tr>
-  <tr>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/><br/>Bootstrap</td>
-  </tr>
-  <tr>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/><br/>Tailwind CSS</td>
   </tr>
 </table>
 
 ### ⚙️ Backend Development
-<table align="center" width="50%">
+<table align="center" width="60%">
   <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/><br/>Node.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" title="Express.js"/><br/>Express.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" title="PHP OOP"/><br/>PHP OOP</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/><br/>Node.js</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" title="Express.js"/><br/>Express.js</td>
+    <td align="center" width="33%"><img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" title="PHP OOP"/><br/>PHP OOP</td>
   </tr>
 </table>
 
 ### 🗄️ Databases
-<table align="center" width="50%">
+<table align="center" width="60%">
   <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB"/><br/>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/><br/>MySQL</td>
+    <td align="center" width="50%"><img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB"/><br/>MongoDB</td>
+    <td align="center" width="50%"><img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/><br/>MySQL</td>
   </tr>
 </table>
 
 ### 🛠️ Tools & Development Environment
-<table align="center" width="50%">
+<table align="center" width="70%">
   <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" title="Git & GitHub"/><br/>Git & GitHub</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/><br/>VS Code</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/><br/>PyCharm</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" title="Code::Blocks"/><br/>Code::Blocks</td>
+    <td align="center" width="25%"><img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" title="Git & GitHub"/><br/>Git</td>
+    <td align="center" width="25%"><img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/><br/>VS Code</td>
+    <td align="center" width="25%"><img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/><br/>PyCharm</td>
+    <td align="center" width="25%"><img height="50" width="50" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" title="Code::Blocks"/><br/>Blocks</td>
   </tr>
   <tr>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" title="NetBeans"/><br/>NetBeans</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" title="Android Studio"/><br/>Android Studio</td>
+    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" title="Android Studio"/><br/>Android</td>
   </tr>
 </table>
 
 ### 📚 Frameworks, Libraries & Cloud Services
-<table align="center" width="50%">
+<table align="center" width="60%">
   <tr>
-    <td align="center"><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" title="Mongoose ODM"/><br/>Mongoose ODM</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate" title="Hibernate ORM"/><br/>Hibernate ORM</td>
+    <td align="center" width="50%"><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" title="Mongoose ODM"/><br/>Mongoose</td>
+    <td align="center" width="50%"><img height="50" width="50" src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate" title="Hibernate ORM"/><br/>Hibernate</td>
   </tr>
   <tr>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/><br/>Firebase</td>
-  </tr>
-  <tr>
     <td align="center"><img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring Framework"/><br/>Spring</td>
   </tr>
 </table>
