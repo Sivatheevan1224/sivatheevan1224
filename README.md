@@ -53,76 +53,102 @@
 
 ## 🧠 Tech Stack Overview  
 
-### 💻 Programming Languages
-<table align="right" width="60%" style="border-radius: 10px; border: 3px solid #4A90E2; margin: 15px; overflow: hidden;">
+<div align="center">
+<h2 align="center">🧠 Tech Stack Overview</h2>
+<table width="100%">
   <tr>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(74, 144, 226, 0.1); border: 2px solid #4A90E2;"><img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C Programming"/><br/><b>C</b></td>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(74, 144, 226, 0.1); border: 2px solid #4A90E2;"><img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/><br/><b>Java</b></td>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(74, 144, 226, 0.1); border: 2px solid #4A90E2;"><img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/><br/><b>Python</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(74, 144, 226, 0.1); border: 2px solid #4A90E2;"><img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/><br/><b>JavaScript</b></td>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(74, 144, 226, 0.1); border: 2px solid #4A90E2;"><img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/><br/><b>TypeScript</b></td>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(74, 144, 226, 0.1); border: 2px solid #4A90E2;"><img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" title="PHP"/><br/><b>PHP</b></td>
+    <td width="30%" valign="top">
+      <div style="padding: 10px; border-radius: 8px; margin: 5px; background: rgba(0,0,0,0.05);">
+        <h3 align="left">💻 Programming Languages</h3>
+        <h3 align="left">🌐 Frontend Development</h3>
+        <h3 align="left">⚙️ Backend Development</h3>
+        <h3 align="left">🛢️ Databases</h3>
+        <h3 align="left">🛠️ Tools & Development Environment</h3>
+        <h3 align="left">📚 Frameworks, Libraries & Cloud Services</h3>
+      </div>
+    </td>
+    <td width="70%" valign="top" style="position: relative;">
+      <div style="position: absolute; top: 0px; left: 20px; z-index: 1; background: #fff; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;">
+          <table align="center">
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45"/><br/><b>C</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/><br/><b>Java</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/><br/><b>Python</b></td>
+              </tr>
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45" height="45"/><br/><b>JavaScript</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="45" height="45"/><br/><b>TypeScript</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/><br/><b>PHP</b></td>
+              </tr>
+          </table>
+      </div>
+      <div style="position: absolute; top: 80px; left: 100px; z-index: 2; background: #fff; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;">
+          <table align="center">
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/><br/><b>HTML5</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/><br/><b>CSS3</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/><br/><b>React</b></td>
+              </tr>
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="45" height="45"/><br/><b>Next.js</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45"/><br/><b>Bootstrap</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/><br/><b>Tailwind</b></td>
+              </tr>
+          </table>
+      </div>
+      <div style="position: absolute; top: 160px; left: 40px; z-index: 3; background: #fff; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;">
+          <table align="center">
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/><br/><b>Node.js</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/><br/><b>Express.js</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=php" alt="PHP OOP" width="45" height="45"/><br/><b>PHP OOP</b></td>
+              </tr>
+          </table>
+      </div>
+       <div style="position: absolute; top: 240px; left: 120px; z-index: 4; background: #fff; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;">
+          <table align="center">
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/><br/><b>MongoDB</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/><br/><b>MySQL</b></td>
+              </tr>
+          </table>
+      </div>
+      <div style="position: absolute; top: 320px; left: 60px; z-index: 5; background: #fff; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;">
+          <table align="center">
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/><br/><b>Git</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/><br/><b>VS Code</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="45" height="45"/><br/><b>PyCharm</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=idea" alt="Blocks" width="45" height="45"/><br/><b>Blocks</b></td>
+              </tr>
+          </table>
+      </div>
+      <div style="position: absolute; top: 400px; left: 140px; z-index: 6; background: #fff; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;">
+          <table align="center">
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=spring" alt="Mongoose" width="45" height="45"/><br/><b>Mongoose</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="45" height="45"/><br/><b>Hibernate</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/><br/><b>Firebase</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="45" height="45"/><br/><b>Spring</b></td>
+              </tr>
+              <tr>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=netlify" alt="NetBeans" width="45" height="45"/><br/><b>NetBeans</b></td>
+                  <td align="center" width="80px"><img src="https://skillicons.dev/icons?i=android" alt="Android" width="45" height="45"/><br/><b>Android</b></td>
+                  <td align="center" width="80px"></td>
+                  <td align="center" width="80px"></td>
+              </tr>
+          </table>
+      </div>
+    </td>
   </tr>
 </table>
+<div style="height: 550px;"></div>
+</div>
 
-### 🎨 Frontend Development
-<table align="right" width="60%" style="border-radius: 10px; border: 3px solid #FF6B9D; margin: 15px; overflow: hidden;">
-  <tr>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 107, 157, 0.1); border: 2px solid #FF6B9D;"><img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/><br/><b>HTML5</b></td>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 107, 157, 0.1); border: 2px solid #FF6B9D;"><img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/><br/><b>CSS3</b></td>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 107, 157, 0.1); border: 2px solid #FF6B9D;"><img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" alt="React.js" title="React.js"/><br/><b>React.js</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 107, 157, 0.1); border: 2px solid #FF6B9D;"><img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js"/><br/><b>Next.js</b></td>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 107, 157, 0.1); border: 2px solid #FF6B9D;"><img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/><br/><b>Bootstrap</b></td>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 107, 157, 0.1); border: 2px solid #FF6B9D;"><img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/><br/><b>Tailwind CSS</b></td>
-  </tr>
-</table>
+<br>
 
-### ⚙️ Backend Development
-<table align="right" width="60%" style="border-radius: 10px; border: 3px solid #FFA502; margin: 15px; overflow: hidden;">
-  <tr>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 165, 2, 0.1); border: 2px solid #FFA502;"><img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/><br/><b>Node.js</b></td>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 165, 2, 0.1); border: 2px solid #FFA502;"><img height="50" width="50" src="https://img.icons8.com/office/48/express-js.png" alt="Express.js" title="Express.js"/><br/><b>Express.js</b></td>
-    <td align="center" width="33%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(255, 165, 2, 0.1); border: 2px solid #FFA502;"><img height="50" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP (OOP)" title="PHP OOP"/><br/><b>PHP OOP</b></td>
-  </tr>
-</table>
-
-### 🗄️ Databases
-<table align="right" width="60%" style="border-radius: 10px; border: 3px solid #00D084; margin: 15px; overflow: hidden;">
-  <tr>
-    <td align="center" width="50%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(0, 208, 132, 0.1); border: 2px solid #00D084;"><img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB"/><br/><b>MongoDB</b></td>
-    <td align="center" width="50%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(0, 208, 132, 0.1); border: 2px solid #00D084;"><img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/><br/><b>MySQL</b></td>
-  </tr>
-</table>
-
-### 🛠️ Tools & Development Environment
-<table align="right" width="70%" style="border-radius: 10px; border: 3px solid #9B59B6; margin: 15px; overflow: hidden;">
-  <tr>
-    <td align="center" width="25%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(155, 89, 182, 0.1); border: 2px solid #9B59B6;"><img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git & GitHub" title="Git & GitHub"/><br/><b>Git</b></td>
-    <td align="center" width="25%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(155, 89, 182, 0.1); border: 2px solid #9B59B6;"><img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/><br/><b>VS Code</b></td>
-    <td align="center" width="25%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(155, 89, 182, 0.1); border: 2px solid #9B59B6;"><img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" title="PyCharm"/><br/><b>PyCharm</b></td>
-    <td align="center" width="25%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(155, 89, 182, 0.1); border: 2px solid #9B59B6;"><img height="50" width="50" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="Code::Blocks" title="Code::Blocks"/><br/><b>Blocks</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(155, 89, 182, 0.1); border: 2px solid #9B59B6;"><img height="50" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans" title="NetBeans"/><br/><b>NetBeans</b></td>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(155, 89, 182, 0.1); border: 2px solid #9B59B6;"><img height="50" width="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio" title="Android Studio"/><br/><b>Android</b></td>
-  </tr>
-</table>
-
-### 📚 Frameworks, Libraries & Cloud Services
-<table align="right" width="60%" style="border-radius: 10px; border: 3px solid #E91E63; margin: 15px; overflow: hidden;">
-  <tr>
-    <td align="center" width="50%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(233, 30, 99, 0.1); border: 2px solid #E91E63;"><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" title="Mongoose ODM"/><br/><b>Mongoose</b></td>
-    <td align="center" width="50%" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(233, 30, 99, 0.1); border: 2px solid #E91E63;"><img height="50" width="50" src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate" title="Hibernate ORM"/><br/><b>Hibernate</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(233, 30, 99, 0.1); border: 2px solid #E91E63;"><img height="50" width="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/><br/><b>Firebase</b></td>
-    <td align="center" style="padding: 12px; border-radius: 8px; margin: 5px; background: rgba(233, 30, 99, 0.1); border: 2px solid #E91E63;"><img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring Framework"/><br/><b>Spring</b></td>
-  </tr>
-</table>
+<h2 align="center">📊 GitHub Stats & Top Languages</h2>
+</div>
 
 ---
 
