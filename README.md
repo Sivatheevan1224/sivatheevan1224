@@ -55,99 +55,71 @@
 
 <div align="center">
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <div style="width: 80%; border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h3 align="left">💻 Programming Languages</h3>
-    <hr>
-    <table style="width: 100%;">
-      <tr>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="45" height="45"/><br/><b>C</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="45" height="45"/><br/><b>Java</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="45" height="45"/><br/><b>Python</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" width="45" height="45"/><br/><b>JavaScript</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" width="45" height="45"/><br/><b>TypeScript</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="45" height="45"/><br/><b>PHP</b></td>
-      </tr>
-    </table>
-  </div>
-
-  <div style="width: 80%; border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h3 align="left">🌐 Frontend Development</h3>
-    <hr>
-    <table style="width: 100%;">
-      <tr>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="45" height="45"/><br/><b>HTML5</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="45" height="45"/><br/><b>CSS3</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="45" height="45"/><br/><b>React</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="45" height="45"/><br/><b>Next.js</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="45" height="45"/><br/><b>Bootstrap</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="45" height="45"/><br/><b>Tailwind</b></td>
-      </tr>
-    </table>
-  </div>
-
-  <div style="width: 80%; border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h3 align="left">⚙️ Backend Development</h3>
-    <hr>
-    <table style="width: 100%;">
-      <tr>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="45" height="45"/><br/><b>Node.js</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="45" height="45"/><br/><b>Express.js</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP OOP" width="45" height="45"/><br/><b>PHP OOP</b></td>
-      </tr>
-    </table>
-  </div>
-
-  <div style="width: 80%; border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h3 align="left">🛢️ Databases</h3>
-    <hr>
-    <table style="width: 100%;">
-      <tr>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="45" height="45"/><br/><b>MongoDB</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="45" height="45"/><br/><b>MySQL</b></td>
-      </tr>
-    </table>
-  </div>
-
-  <div style="width: 80%; border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h3 align="left">🛠️ Tools & Development Environment</h3>
-    <hr>
-    <table style="width: 100%;">
-      <tr>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="45" height="45"/><br/><b>Git</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="45" height="45"/><br/><b>VS Code</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm" width="45" height="45"/><br/><b>PyCharm</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="Blocks" width="45" height="45"/><br/><b>Blocks</b></td>
-      </tr>
-    </table>
-  </div>
-
-  <div style="width: 80%; border: 1px solid #ddd; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h3 align="left">📚 Frameworks, Libraries & Cloud Services</h3>
-    <hr>
-    <table style="width: 100%;">
-      <tr>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Mongoose" width="45" height="45"/><br/><b>Mongoose</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" alt="Hibernate" width="45" height="45"/><br/><b>Hibernate</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" width="45" height="45"/><br/><b>Firebase</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="45" height="45"/><br/><b>Spring</b></td>
-      </tr>
-      <tr>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="NetBeans" width="45" height="45"/><br/><b>NetBeans</b></td>
-        <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=android&theme=dark" alt="Android" width="45" height="45"/><br/><b>Android</b></td>
-        <td align="center" style="padding: 10px;"></td>
-        <td align="center" style="padding: 10px;"></td>
-      </tr>
-    </table>
-  </div>
-
-</div>
-</div>
-
 <br>
 
-<h2 align="center">📊 GitHub Stats & Top Languages</h2>
+<h3 align="center">💻 Programming Languages</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="45" height="45"/><br/><b>C</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="45" height="45"/><br/><b>Java</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="45" height="45"/><br/><b>Python</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" width="45" height="45"/><br/><b>JavaScript</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" width="45" height="45"/><br/><b>TypeScript</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="45" height="45"/><br/><b>PHP</b></td>
+  </tr>
+</table>
+
+<h3 align="center">🌐 Frontend Development</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="45" height="45"/><br/><b>HTML5</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="45" height="45"/><br/><b>CSS3</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="45" height="45"/><br/><b>React</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="45" height="45"/><br/><b>Next.js</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="45" height="45"/><br/><b>Bootstrap</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="45" height="45"/><br/><b>Tailwind</b></td>
+  </tr>
+</table>
+
+<h3 align="center">⚙️ Backend Development</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="45" height="45"/><br/><b>Node.js</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="45" height="45"/><br/><b>Express.js</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP OOP" width="45" height="45"/><br/><b>PHP OOP</b></td>
+  </tr>
+</table>
+
+<h3 align="center">🛢️ Databases</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="45" height="45"/><br/><b>MongoDB</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="45" height="45"/><br/><b>MySQL</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="45" height="45"/><br/><b>PostgreSQL</b></td>
+  </tr>
+</table>
+
+<h3 align="center">🛠️ Tools & Development Environment</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="45" height="45"/><br/><b>Git</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="45" height="45"/><br/><b>VS Code</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm" width="45" height="45"/><br/><b>PyCharm</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="45" height="45"/><br/><b>IntelliJ</b></td>
+  </tr>
+</table>
+
+<h3 align="center">📚 Frameworks, Libraries & Cloud Services</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="45" height="45"/><br/><b>Spring</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" alt="Hibernate" width="45" height="45"/><br/><b>Hibernate</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" width="45" height="45"/><br/><b>Firebase</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" width="45" height="45"/><br/><b>Netlify</b></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android" width="45" height="45"/><br/><b>Android</b></td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -158,71 +130,71 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Full+Stack+Developer+%7C+MERN+Stack+%7C+Next.js+%F0%9F%9A%80;REST+API+Integration+%7C+Database+Design+%F0%9F%92%BE;Java+Development+%7C+Web+Applications+%7C+Maven+%E2%98%95" alt="Skills Animation" />
 </p>
 
-<table align="center" width="90%" style="border-collapse: separate; border-spacing: 15px;">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>🎨 Frontend Development</h3>
-      <p align="left">
-        <b>• HTML5, CSS3, JavaScript</b><br/>
-        <b>• React.js & Next.js</b><br/>
-        <b>• TypeScript</b><br/>
-        <b>• Tailwind CSS & Bootstrap</b><br/>
-        <b>• Responsive Web Design</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Frontend Development</h3>
+      <ul>
+        <li>HTML5, CSS3, JavaScript</li>
+        <li>React.js & Next.js</li>
+        <li>TypeScript</li>
+        <li>Tailwind CSS & Bootstrap</li>
+        <li>Responsive Web Design</li>
+      </ul>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>⚙️ Backend Development</h3>
-      <p align="left">
-        <b>• Node.js & Express.js</b><br/>
-        <b>• PHP (OOP)</b><br/>
-        <b>• REST API Development</b><br/>
-        <b>• API Integration</b><br/>
-        <b>• Mongoose ODM</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Backend Development</h3>
+      <ul>
+        <li>Node.js & Express.js</li>
+        <li>PHP (OOP)</li>
+        <li>REST API Development</li>
+        <li>API Integration</li>
+        <li>Mongoose ODM</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>🗄️ Database Management</h3>
-      <p align="left">
-        <b>• MySQL</b><br/>
-        <b>• MongoDB</b><br/>
-        <b>• SQL & NoSQL Design</b><br/>
-        <b>• Database Optimization</b><br/>
-        <b>• Data Modeling</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">🗄️ Database Management</h3>
+      <ul>
+        <li>MySQL & PostgreSQL</li>
+        <li>MongoDB</li>
+        <li>SQL & NoSQL Design</li>
+        <li>Database Optimization</li>
+        <li>Data Modeling</li>
+      </ul>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>☕ Java Development</h3>
-      <p align="left">
-        <b>• Java Swing GUI</b><br/>
-        <b>• Servlets & JSP</b><br/>
-        <b>• Maven Project Management</b><br/>
-        <b>• Java Web Applications</b><br/>
-        <b>• Object-Oriented Programming</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">☕ Java Development</h3>
+      <ul>
+        <li>Java Swing GUI</li>
+        <li>Servlets & JSP</li>
+        <li>Maven Project Management</li>
+        <li>Java Web Applications</li>
+        <li>Object-Oriented Programming</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>🛠️ Development Tools</h3>
-      <p align="left">
-        <b>• Git & GitHub</b><br/>
-        <b>• VS Code, PyCharm</b><br/>
-        <b>• NetBeans, Android Studio</b><br/>
-        <b>• Code::Blocks</b><br/>
-        <b>• Version Control Systems</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Development Tools</h3>
+      <ul>
+        <li>Git & GitHub</li>
+        <li>VS Code, PyCharm</li>
+        <li>NetBeans, Android Studio</li>
+        <li>Code::Blocks</li>
+        <li>Version Control Systems</li>
+      </ul>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #00D4FF; border-radius: 10px; padding: 25px; background-color: rgba(0, 212, 255, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>🚀 Other Technologies</h3>
-      <p align="left">
-        <b>• MERN Stack Development</b><br/>
-        <b>• Internet of Things (ESP32)</b><br/>
-        <b>• Cloud Deployment (Vercel)</b><br/>
-        <b>• Responsive Design Principles</b><br/>
-        <b>• Agile Development</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Other Technologies</h3>
+      <ul>
+        <li>MERN Stack Development</li>
+        <li>Internet of Things (ESP32)</li>
+        <li>Cloud Deployment (Vercel)</li>
+        <li>Responsive Design Principles</li>
+        <li>Agile Development</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -298,45 +270,45 @@
 
 ## 🌱 Currently Exploring  
 
-<table align="center" width="90%" style="border-collapse: separate; border-spacing: 15px;">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 25px; background-color: rgba(57, 255, 20, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>⚛️ Frontend Frameworks</h3>
-      <p align="left">
-        <b>• Advanced React Patterns</b><br/>
-        <b>• Next.js 15 Features</b><br/>
-        <b>• Server Components</b><br/>
-        <b>• State Management</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">⚛️ Frontend Frameworks</h3>
+      <ul>
+        <li>Advanced React Patterns</li>
+        <li>Next.js 15 Features</li>
+        <li>Server Components</li>
+        <li>State Management</li>
+      </ul>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 25px; background-color: rgba(57, 255, 20, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>🔐 Backend & Security</h3>
-      <p align="left">
-        <b>• RESTful API Optimization</b><br/>
-        <b>• API Security Best Practices</b><br/>
-        <b>• Authentication & Authorization</b><br/>
-        <b>• Performance Tuning</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Backend & Security</h3>
+      <ul>
+        <li>RESTful API Optimization</li>
+        <li>API Security Best Practices</li>
+        <li>Authentication & Authorization</li>
+        <li>Performance Tuning</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 25px; background-color: rgba(57, 255, 20, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>🌐 IoT & Hardware</h3>
-      <p align="left">
-        <b>• ESP32 Microcontroller</b><br/>
-        <b>• Internet of Things (IoT)</b><br/>
-        <b>• Sensor Integration</b><br/>
-        <b>• WiFi & Bluetooth Protocols</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 IoT & Hardware</h3>
+      <ul>
+        <li>ESP32 Microcontroller</li>
+        <li>Internet of Things (IoT)</li>
+        <li>Sensor Integration</li>
+        <li>WiFi & Bluetooth Protocols</li>
+      </ul>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #39FF14; border-radius: 10px; padding: 25px; background-color: rgba(57, 255, 20, 0.05); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3>☁️ Cloud & Deployment</h3>
-      <p align="left">
-        <b>• Vercel Deployment</b><br/>
-        <b>• Firebase Integration</b><br/>
-        <b>• CI/CD Pipelines</b><br/>
-        <b>• Cloud Optimization</b>
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Cloud & Deployment</h3>
+      <ul>
+        <li>Vercel Deployment</li>
+        <li>Firebase Integration</li>
+        <li>CI/CD Pipelines</li>
+        <li>Cloud Optimization</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -350,9 +322,9 @@
 </p>
 
 <div align="center">
-  
-[![Sivatheevan1224 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivatheevan1224&bg_color=0d1117&color=00ea64&line=39ff14&point=ffffff&area=true&hide_border=true&custom_title=📊%20Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivatheevan1224&bg_color=0d1117&color=00ea64&line=39ff14&point=ffffff&area=true&hide_border=true&custom_title=📊%20Contribution%20Activity%20Graph" alt="Sivatheevan1224 activity graph" />
+  </a>
 </div>
 
 <br/>
@@ -361,6 +333,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&icon_color=39ff14&text_color=ffffff&ring_color=00ea64&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivatheevan1224&theme=highcontrast&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&stroke=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff" height="180"/>
@@ -371,27 +345,21 @@
 ### 📈 Additional GitHub Insights
 
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sivatheevan1224&theme=radical)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sivatheevan1224&theme=radical" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=radical)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=radical" alt="Most Commit Language" />
 </div>
 
 <br/>
 
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sivatheevan1224&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sivatheevan1224&theme=radical&utcOffset=5.5)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sivatheevan1224&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sivatheevan1224&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 <br/>
