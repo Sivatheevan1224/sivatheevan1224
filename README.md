@@ -15,6 +15,7 @@
 
 🎓 Passionate **Computer Science undergraduate** at *Uva Wellassa University of Sri Lanka*  
 💡 Interested in **Full Stack Development** and **Software Engineering**  
+🌱 Currently studying and mastering **Next.js**, **PostgreSQL**, and **Express.js**  
 🚀 Always eager to learn new technologies and build impactful projects  
 📫 Reach me at: **sivatheevan1224@gmail.com**  
 📞 Contact Me: **+ 94 76 375 3730**
