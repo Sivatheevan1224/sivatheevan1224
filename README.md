@@ -343,26 +343,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff" height="180"/>
 </div>
 
-<br/>
-
 ### 📈 Additional GitHub Insights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sivatheevan1224&theme=radical" alt="Profile Details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sivatheevan1224&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sivatheevan1224&theme=radical" alt="Most Commit Language" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sivatheevan1224&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sivatheevan1224&theme=radical&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff" height="200" />
 </div>
 
 <br/>
