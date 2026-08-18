@@ -332,7 +332,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sivatheevan1224&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&icon_color=39ff14&text_color=ffffff&ring_color=00ea64&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivatheevan1224&theme=highcontrast&hide_border=true&background=0d1117&ring=00ea64&fire=39ff14&currStreakLabel=00ea64&stroke=00ea64&sideLabels=ffffff&dates=8b949e" height="180"/>
 </div>
@@ -343,7 +343,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sivatheevan1224&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ea64&text_color=ffffff" height="180"/>
 </div>
 
-<br/>
+<br/> -->
 
 ### 📈 Additional GitHub Insights
 
