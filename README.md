@@ -1,16 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=5555&pause=1000&color=000000&center=true&width=800&height=70&lines=Hi++there%F0%9F%91%8B%2C++I'm+Arulnathan+Sivatheevan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=5555&pause=1000&color=00EA64&center=true&width=800&height=70&lines=Hi++there%F0%9F%91%8B%2C++I'm+Arulnathan+Sivatheevan" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00EA64&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br/>
 
 ## 💻 About Me  
+
+<img alt="Coder GIF" align="right" height="220" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sivatheevan1224.github.io/My_Portfolio/)
 
 🎓 Passionate **Computer Science undergraduate** at *Uva Wellassa University of Sri Lanka*  
@@ -18,8 +23,7 @@
 🌱 Currently studying and mastering **Next.js**, **PostgreSQL**, and **Express.js**  
 🚀 Always eager to learn new technologies and build impactful projects  
 📫 Reach me at: **sivatheevan1224@gmail.com**  
-📞 Contact Me: **+ 94 76 375 3730**
-
+📞 Contact Me: **+94 76 375 3730**
 
 <br clear="right"/>
 
@@ -48,15 +52,11 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## 🧠 Tech Stack Overview  
 
 <div align="center">
-
-<br>
 
 <h3 align="center">💻 Programming Languages</h3>
 <table align="center">
@@ -210,7 +210,7 @@
 
 <table align="center" width="95%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/Sivatheevan1224/My_Portfolio">
         <img src="https://opengraph.githubassets.com/1/Sivatheevan1224/My_Portfolio" alt="Portfolio" width="100%" style="border-radius: 10px;"/>
       </a>
@@ -226,7 +226,7 @@
         <img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/Sivatheevan1224/GearSphere-FrontEnd">
         <img src="https://opengraph.githubassets.com/1/Sivatheevan1224/GearSphere-FrontEnd" alt="GearSphere" width="100%" style="border-radius: 10px;"/>
       </a>
@@ -242,7 +242,7 @@
         <img src="https://img.shields.io/badge/View%20Project-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/Sivatheevan1224/Gym_Management_System">
         <img src="https://opengraph.githubassets.com/1/Sivatheevan1224/Gym_Management_System" alt="Gym System" width="100%" style="border-radius: 10px;"/>
       </a>
@@ -260,6 +260,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/Sivatheevan1224?tab=repositories">
@@ -461,15 +463,6 @@
       <p>Problem Solving<br/>Data Structures</p>
     </td>
   </tr>
-  <!-- <tr>
-    <td align="center" colspan="3">
-      <h4>🏅 Add Your Certifications Here:</h4>
-      <p>
-        <i>LinkedIn Learning • Coursera • Udemy • freeCodeCamp • Microsoft Learn</i><br/>
-        <i>Update this section as you complete new courses and certifications!</i>
-      </p>
-    </td>
-  </tr> -->
 </table>
 
 <br/>
@@ -480,22 +473,26 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Sivatheevan1224&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="70%"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Sivatheevan1224&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h4 align="center">
-  𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 🤝
+  Thank You For Visiting 🤝
   <br/>
-  𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚍𝚊𝚢 ! 
+  Have a wonderful day! 
 </h4>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Sivatheevan1224/Sivatheevan1224?logo=github&style=for-the-badge"/>
 </p>
 
-⭐️ From [Sivatheevan1224](https://github.com/Sivatheevan1224)
+<p align="center">
+  ⭐️ From <a href="https://github.com/Sivatheevan1224">Sivatheevan1224</a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
